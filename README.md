@@ -1,0 +1,3 @@
+# countryonthecoast
+
+A Django creation
